@@ -8,6 +8,7 @@ Criacao de uma estrutura utilizando Laravel e React.
 - Configurei para buscar todos os usuários do banco e enviá-los como props para o React.
 
 teste:
+senha->12345678 p todos
 nivel 1 adm: admin@email.com 
     visualiza todas as ações
 
@@ -16,3 +17,5 @@ nivel 2 mod: moderador@email.com
 
 nivel 3 leitor: leitor@email.com 
     botões de "editar" e "excluir" estao ocultados
+
+utilizei o auxilio de ia para me ajudar no projeto 
